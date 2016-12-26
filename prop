@@ -1,0 +1,4 @@
+---
+ha_proxy:
+  ssl_pem: dd
+  vip: 1234
